@@ -6,7 +6,7 @@ public class Pracownik {
     private LocalDate dataUrodzenia;
     private int wysokoscWynagrodzenia;
     private Departament departament;
-    public enum Departament{
+    public enum Departament{ //git test
         HR,
         SPRZEDAZ,
         MAGAZYN,
